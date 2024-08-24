@@ -1,3 +1,0 @@
-/Users/ramyaksharma/desktop/Proj/Raycasting/build/CMakeFiles/RayTracer.dir
-/Users/ramyaksharma/desktop/Proj/Raycasting/build/CMakeFiles/edit_cache.dir
-/Users/ramyaksharma/desktop/Proj/Raycasting/build/CMakeFiles/rebuild_cache.dir
